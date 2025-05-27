@@ -6,12 +6,8 @@
 ![License](https://img.shields.io/badge/License-MIT-00D4AA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Translation](https://img.shields.io/badge/RU%E2%86%94DE-Translation-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 **Профессиональный AI-переводчик между русским и немецким языками с автоматическим определением языка, кэшированием и многопоточностью**
-
-[Возможности](#-возможности) • [Установка](#-установка) • [Использование](#-использование) • [Примеры](#-примеры)
-
 </div>
 
 ---
