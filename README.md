@@ -2,10 +2,11 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![AI Powered](https://img.shields.io/badge/AI-Powered-ff6b6b.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+![Python](https://img.shields.io/badge/Python-3.7%2B-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-00D4AA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Translation](https://img.shields.io/badge/RU%E2%86%94DE-Translation-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 **Профессиональный AI-переводчик между русским и немецким языками с автоматическим определением языка, кэшированием и многопоточностью**
 
@@ -77,7 +78,7 @@
 
 <div align="center">
 
-**[⭐ Поставьте звезду](https://github.com/disconnect-dev/g4f-translator) если проект был полезен!**
+**⭐ Поставьте звезду если проект был полезен!**
 
-Сделано с ❤️ 
+Сделано с любовью
 </div>
