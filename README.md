@@ -1,4 +1,4 @@
-#№ g4f-translator 
+## g4f-translator 
 
 <div align="center">
 
