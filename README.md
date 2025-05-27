@@ -1,5 +1,6 @@
-## g4f-translator 
-
+<div align="center">
+# g4f-translator 
+</div>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-3776ab?style=for-the-badge&logo=python&logoColor=white)
