@@ -6,7 +6,7 @@ class AITranslator {
         this.currentTranslation = '';
         this.isTranslating = false;
         
-        console.log('⚡ AI Translator initialized');
+        console.log('Dev by GitHub.com/disconnect-dev');
     }
 
     initializeElements() {
