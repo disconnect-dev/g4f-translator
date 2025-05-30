@@ -173,8 +173,6 @@ this.debounceTimer = setTimeout(() => {
 
 ---
 
-<div align="center">
-
 **Сделано с ❤️ **
 
 [⭐ Поставьте звезду](https://github.com/disconnect-dev/g4f-translator) | [🐛 Сообщить об ошибке](https://github.com/disconnect-dev/g4f-translator/issues)
